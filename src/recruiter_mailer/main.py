@@ -24,7 +24,7 @@ console = Console()
 # ============================================================
 
 # Change this file name when moving from test Excel to main Excel
-EXCEL_FILE = Path("data/test_recruiters.xlsx")
+EXCEL_FILE = Path("data/test.xlsx")
 
 # If your Excel has multiple sheets, write sheet name here.
 # Keep it None to use the active/default sheet.
@@ -36,7 +36,7 @@ TO_SNO = 5
 
 # Keep True while testing.
 # Change to False only when you actually want to send emails.
-DRY_RUN = True
+DRY_RUN = False
 
 # Optional safety limit.
 # Keep None to preview/send the full selected SNo range.
