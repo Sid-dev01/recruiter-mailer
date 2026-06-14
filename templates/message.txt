@@ -1,0 +1,17 @@
+Dear {{name}},
+
+I hope you are doing well.
+
+I am reaching out to express my interest in any Full Stack Developer opportunities at {{company}}. I am currently working as a Full Stack Developer Intern, where I contribute to production-level applications using the MERN stack and React Native.
+
+I have attached my resume for your review. If there are any suitable openings that match my background, I would be grateful for your consideration.
+
+Thank you for your time. I look forward to hearing from you.
+
+Sincerely,
+
+Siddhartha Gautam
+
+GitHub: {{github_link}}
+Portfolio: {{portfolio_link}}
+LinkedIn: {{linkedin_link}}
