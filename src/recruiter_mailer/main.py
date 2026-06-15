@@ -24,7 +24,7 @@ console = Console()
 # ============================================================
 
 # Change this file name when moving from test Excel to main Excel
-EXCEL_FILE = Path("data/test.xlsx")
+EXCEL_FILE = Path("data/list.xlsx")
 
 # If your Excel has multiple sheets, write sheet name here.
 # Keep it None to use the active/default sheet.
@@ -32,7 +32,7 @@ SHEET_NAME = None
 
 # Change this range for each batch
 FROM_SNO = 1
-TO_SNO = 5
+TO_SNO = 50
 
 # Keep True while testing.
 # Change to False only when you actually want to send emails.
