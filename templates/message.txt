@@ -13,5 +13,4 @@ Sincerely,
 Siddhartha Gautam
 
 GitHub: {{github_link}}
-Portfolio: {{portfolio_link}}
 LinkedIn: {{linkedin_link}}
